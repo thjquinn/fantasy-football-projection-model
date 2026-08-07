@@ -1,0 +1,14 @@
+scoring_format: full_ppr
+
+passing:
+  yards_per_point: 25
+  touchdown: 4
+  interception: -2
+
+receiving:
+  yards_per_point: 10
+  reception: 1
+  touchdown: 6
+
+fumbles:
+  lost: -2
